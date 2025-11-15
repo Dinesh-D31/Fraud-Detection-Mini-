@@ -4,7 +4,7 @@ My version of credit card fraud detecting system to check whether the transactio
 Just peeking inside major real world models with my knowledge 
 
 Concept:
-Random Forest Classifier 
-StandardScaler
-Classification Report 
-Confusion Matrix
+Random Forest Classifier, 
+StandardScaler,
+Classification Report, 
+Confusion Matrix.
