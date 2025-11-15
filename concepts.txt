@@ -1,0 +1,8 @@
+Summary
+
+Part				Purpose
+Scaling			Make data uniform
+Stratified split	Ensure rare classes are evenly split
+Random Forest		Powerful, versatile, handles imbalanced data
+Confusion Matrix	Understand model’s mistakes
+Precision/Recall	Essential for fraud detection problems
